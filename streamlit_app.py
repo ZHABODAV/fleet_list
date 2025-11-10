@@ -255,8 +255,3 @@ with tabs[3]:
 st.markdown("---")
 st.markdown("**Разработано для оптимизации морских перевозок** ⚓")
 ```
-
-Установи зависимости:
-
-```bash
-pip install streamlit plotly pandas numpy openpyxl reportlab kaleido
